@@ -21,8 +21,8 @@ We followed an Agile Software Development process using Scrum methodologies.Our 
 
 ---
 ### 📁 Repository Structure
-To clearly demonstrate our SDLC progress, our files are organized as follows[cite: 59]:
-* `/planning/`: Contains project plans, Trello board links, initial requirements, and sprint notes[cite: 60].
-* `/design/`: Contains wireframes, prototype mockups, and UML Use Case diagrams[cite: 61].
-* `/testing/`: Contains prototype user feedback and testing notes[cite: 62].
-* `/final/`: Contains final prototype screenshots and the final project report[cite: 63].
+To clearly demonstrate our SDLC progress, our files are organized as follows
+* `/planning/`: Contains project plans, Trello board links, initial requirements, and sprint notes.
+* `/design/`: Contains wireframes, prototype mockups, and UML Use Case diagrams.
+* `/testing/`: Contains prototype user feedback and testing notes.
+* `/final/`: Contains final prototype screenshots and the final project report.
