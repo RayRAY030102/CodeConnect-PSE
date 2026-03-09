@@ -6,6 +6,11 @@ CodeConnect supports SDG 4 by improving learning access and skill development fo
 
 ## 👥 Team Members
 | Name | Student ID | Role |
+| :--- | :--- | :--- |
+| [Ouyang Ruilin] | [0387286] | GitHub Architect & Developer |
+| [Chen Binghao] | [0388678] | Business Analyst |
+| [AHMED MUNTASER SALEH LAZNAM] | [0386922] | Scrum Master |
+| [AHMED ELOBIED AHMED MOHAMED ELHAJ] | [0371229] | UI/UX Lead |
 
 
 ## 💡 Project Description
